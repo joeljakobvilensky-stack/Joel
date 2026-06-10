@@ -1,0 +1,10 @@
+{
+  "name": "Vitamin & Nutrition Companion",
+  "description": "An intuitive mobile application specializing in logging vitamins and daily nutrients. Capture barcodes and food photos, sync health data automatically, and battle friends in a gamified leaderboard to earn apples for custom designs.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
